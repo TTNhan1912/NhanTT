@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f652c6e98755e4e8e0c36c5eb19736, type: 3}
+  m_Name: CommentAsset
+  m_EditorClassIdentifier: 
+  Contents:
+  - Omg that looks so good
+  - ' How can you eat so much food'
+  - ' Can you describe the taste of that dish'
+  - ' What''s your favorite food in this mukbang'
+  - ' I''m getting hungry just watching this'
+  - ' How do you stay so fit eating all this'
+  - ' Can you give us the recipe for that'
+  - ' Wow, you''re eating so fast'
+  - ' I love watching your mukbangs'
+  - ' Can you do a spicy food challenge next'
+  - ' What''s the drink you''re having with that'
+  - ' Do you ever get tired of eating on camera'
+  - ' That crunch sound is so satisfying'
+  - ' Do you have any tips for cooking this at home'
+  - ' What''s the weirdest food you''ve ever eaten'
+  - ' How do you prepare for a mukbang session'
+  - ' Your setup looks amazing, what''s your camera'
+  - ' How do you decide what to eat for each mukbang'
+  - ' Can you do a dessert mukbang next time'
+  - That looks absolutely delicious
+  - ' I''m amazed at how much you can eat'
+  - ' What''s the name of that dish'
+  - ' Can you try the seafood next'
+  - ' I''m so jealous right now'
+  - ' Do you ever get tired of eating'
+  - ' Your reactions are the best'
+  - ' Can you eat something sweet now'
+  - ' How do you stay so thin'
+  - ' What''s your favorite snack'
+  - ' That sauce looks amazing'
+  - ' Do you cook all the food yourself'
+  - ' Can you do a vegan mukbang'
+  - ' I love your energy'
+  - ' How long does it take to finish all that food'
+  - ' Can you eat some noodles next'
+  - ' What''s the spiciest thing you''ve eaten'
+  - ' Your setup is so cozy'
+  - ' Can you eat some exotic fruits'
+  - ' You''re making me so hungry'
+  - ' Do you prefer savory or sweet foods'
+  - ' Can you eat some street food'
+  - ' What''s your favorite comfort food'
+  - ' I''m loving this mukbang'
+  - ' Can you try some international cuisine'
+  - ' That food looks so fresh'
+  - ' What''s your go-to drink with meals'
+  - ' Can you eat some breakfast foods'
+  - ' You''re such a pro at this'
+  - ' I can''t wait for your next mukbang'
+  Avatars:
+  - {fileID: 21300000, guid: 9210a6c484914664a92b41207ba23bee, type: 3}
+  - {fileID: 21300000, guid: ab1af21633299a749a890cee6e068eb4, type: 3}
+  - {fileID: 21300000, guid: c7ca0f65040624144a8a6d06290487de, type: 3}
+  - {fileID: 21300000, guid: 8d0005101a581fd41992bed4d75649ad, type: 3}
+  - {fileID: 21300000, guid: 2391883dadfe29741936248391520381, type: 3}
+  - {fileID: 21300000, guid: f50c79125cffcc8458d63c1b512d6f01, type: 3}
+  - {fileID: 21300000, guid: be1565268beeb1a449376b2dff96be3d, type: 3}
+  - {fileID: 21300000, guid: 830e7d82855e7ec47bfeb81d5d6408a4, type: 3}
+  - {fileID: 21300000, guid: e5290a312bce43a458cec7ad6f9f6e8a, type: 3}
