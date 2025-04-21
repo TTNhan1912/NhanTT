@@ -11,6 +11,6 @@ namespace Framework
         {
             Plane[] frustumPlanes = GeometryUtility.CalculateFrustumPlanes(camera);
             return GeometryUtility.TestPlanesAABB(frustumPlanes, renderer.bounds);
-        }      
+        }
     }
 }

@@ -6,7 +6,7 @@ public class Draggable : MonoBehaviour
 {
     [SerializeField] bool autoConnectDragAnimation;
     protected bool isDragging;
-    public UnityEvent OnBeginDrag, OnEndDrag;
+    public UnityEvent OnBeginDrag, OnEndDrag, OnDragg;
 
     Collider2D collider2d;
     DragAnimation dragAnimation;
@@ -46,6 +46,7 @@ public class Draggable : MonoBehaviour
         if (isDragging)
         {
             transform.position = GetMouseWorldPos() + offset;
+            OnDragg?.Invoke();
         }
     }
 
